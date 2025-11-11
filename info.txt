@@ -1,0 +1,2 @@
+This file is a home assigment on web-pages parsing.
+To see the describtion of the prosses of creating the code (and some notes) - you are welcome: https://docs.google.com/document/d/1Nzc15FB2WEs8Drtdye2S_LF7c0fteTUOmKYBz4IJ8QI/edit?tab=t.0
